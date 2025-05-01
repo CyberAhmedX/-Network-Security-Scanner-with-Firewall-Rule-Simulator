@@ -42,61 +42,60 @@ Whether you're learning cybersecurity, working on networking fundamentals, or bu
 # 💡 Features
 ### 🔍 Flexible Scanning:
 
-TCP SYN scan
+- TCP SYN scan
 
-UDP scan
+- UDP scan
 
-Service version detection
+- Service version detection
 
-🛡️ Simulated Firewall:
+### 🛡️ Simulated Firewall:
 
-Add allow or deny rules by IP and port
+- Add allow or deny rules by IP and port
 
-Remove rules dynamically
+- Remove rules dynamically
 
-Visualize rule impact on scan results
+- Visualize rule impact on scan results
 
-⚡ Real-Time UI:
+### ⚡ Real-Time UI:
 
-Uses WebSockets for immediate updates
+- Uses WebSockets for immediate updates
 
-No need to refresh or re-run manually
+- No need to refresh or re-run manually
 
-🌙 Dark UI Theme:
+### 🌙 Dark UI Theme:
 
-Aesthetically styled HTML/CSS interface
+- Aesthetically styled HTML/CSS interface
 
-Fully responsive and accessible
+- Fully responsive and accessible
 
-🚀 How to Use
-Run the Flask server:
+# 🚀 How to Use
+### Run the Flask server:
 
-python app.py
+`python app.py`
 
-Open your browser and go to:
+### Open your browser and go to:
 
-http://127.0.0.1:5000
+`http://127.0.0.1:5000`
 
-On the interface:
+### On the interface:
 
-Enter a target IP address or hostname
+- Enter a target IP address or hostname
 
-Select scan type (TCP, UDP, version)
+- Select scan type (TCP, UDP, version)
 
-Click Start Scan to begin
+- Click Start Scan to begin
 
-Add firewall rules as needed to block or allow specific traffic
+- Add firewall rules as needed to block or allow specific traffic
 
-Watch the results update live based on your rules
+- Watch the results update live based on your rules
 
-🎯 Use Cases
-Networking & cybersecurity education
+# 🎯 Use Cases
+- Networking & cybersecurity education
 
-Visual demo for firewall behavior simulation
+- Visual demo for firewall behavior simulation
 
-Learning WebSockets and real-time interaction with Flask
+- Learning WebSockets and real-time interaction with Flask
 
+
+# This project is intended for educational and personal use only, feel free to modify and extend it as you wish.
 ```bash
-
-This project is intended for educational and personal use only, feel free to modify and extend it as you wish.
-
