@@ -19,7 +19,7 @@ Whether you're learning cybersecurity, working on networking fundamentals, or bu
 
 ### Requirements
 
-- Python 3.x
+- Python 3.11
 - `nmap` installed on your system  
   - **Linux**: `sudo apt install nmap`  
   - **macOS**: `brew install nmap`  
