@@ -38,9 +38,9 @@ Whether you're learning cybersecurity, working on networking fundamentals, or bu
 ### Install Python Dependencies
 
 `pip install Flask Flask-SocketIO python-nmap`
-```bash
-💡 Features
-🔍 Flexible Scanning:
+
+# 💡 Features
+# 🔍 Flexible Scanning:
 
 TCP SYN scan
 
@@ -95,6 +95,8 @@ Networking & cybersecurity education
 Visual demo for firewall behavior simulation
 
 Learning WebSockets and real-time interaction with Flask
+
+```bash
 
 This project is intended for educational and personal use only, feel free to modify and extend it as you wish.
 
