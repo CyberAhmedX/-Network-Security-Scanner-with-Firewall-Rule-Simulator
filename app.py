@@ -100,6 +100,6 @@ def simulate_traffic(scan_results):
         if not allowed:
             result['status'] = 'Allowed'
 
-# Start the server
+
 if __name__ == '__main__':
     socketio.run(app, debug=True)
