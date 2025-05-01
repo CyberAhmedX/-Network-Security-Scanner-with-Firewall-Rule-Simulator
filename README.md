@@ -40,7 +40,7 @@ Whether you're learning cybersecurity, working on networking fundamentals, or bu
 `pip install Flask Flask-SocketIO python-nmap`
 
 # 💡 Features
-# 🔍 Flexible Scanning:
+### 🔍 Flexible Scanning:
 
 TCP SYN scan
 
