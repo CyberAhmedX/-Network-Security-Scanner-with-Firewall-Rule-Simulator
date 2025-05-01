@@ -24,7 +24,9 @@ Whether you're learning cybersecurity, working on networking fundamentals, or bu
   - **Linux**: `sudo apt install nmap`  
   - **macOS**: `brew install nmap`  
   - **Windows**: [Download from nmap.org](https://nmap.org/download.html)
+  - VS Code
 
+## Setup
 ### Install Python Dependencies
 
 `pip install Flask Flask-SocketIO python-nmap`
