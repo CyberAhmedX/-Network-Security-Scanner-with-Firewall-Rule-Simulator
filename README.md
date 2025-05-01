@@ -25,16 +25,6 @@ Whether you're learning cybersecurity, working on networking fundamentals, or bu
   - **macOS**: `brew install nmap`  
   - **Windows**: [Download from nmap.org](https://nmap.org/download.html)
 
-## 🔧 Setup
-
-### Requirements
-
-- Python 3.x
-- `nmap` installed on your system  
-  - **Linux**: `sudo apt install nmap`  
-  - **macOS**: `brew install nmap`  
-  - **Windows**: [Download from nmap.org](https://nmap.org/download.html)
-
 ### Install Python Dependencies
 
 `pip install Flask Flask-SocketIO python-nmap`
